@@ -11,7 +11,7 @@ If you want to test this app locally you should follow the next steps
 ## 1- Clone the project
 Run :
 ```
-git clone https://github.com/majdas007/app-backend.git
+git clone https://github.com/majdas007/Test-justify.git
 ```
 ## 2- Install dependencies
 Run :
