@@ -28,4 +28,4 @@ npm start
 > To generate token : 127.0.0.1:3001/api/token 
 ```
 
-**Note** : `127.0.0.1:3001` will be changed with the public `URL` send on mail  
+**Note** : `127.0.0.1:3001` will be changed with the public `URL` sent on mail  
