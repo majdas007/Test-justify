@@ -25,7 +25,7 @@ npm start
 ## 4- Test endpoints
 ```
 > To justify text : 127.0.0.1:3001/api/justify 
-> To generate token : 127.0.0.1:3001/api/justify 
+> To generate token : 127.0.0.1:3001/api/token 
 ```
 
 **Note** : `127.0.0.1:3001` will be changed with the public `URL` send on mail  
