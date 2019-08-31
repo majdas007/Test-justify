@@ -3,9 +3,10 @@ const router = express.Router();
 const authenticate = require('../Config/Authenticate');
 const responseHandler = require('../Config/Responsehandler');
 
+const conf = require('../Config/Utils')
 const redis = require('redis');
 // i used redis which is an in-memory data structure store to save token
-const client = redis.createClient(); //creates a new client
+const client = redis.createClient(conf.URI); //creates a new client
 
 router.get('/', function (req,res,next) {
 
