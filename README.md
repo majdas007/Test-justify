@@ -24,8 +24,6 @@ npm start
 ```
 ## 4- Test endpoints
 ```
-> To justify text : 127.0.0.1:3001/api/justify : accepts text as an entry 
-> To generate token : 127.0.0.1:3001/api/token  : accepts json that contains "email" field to generate token 
+> To justify text : https://text-justify-test.herokuapp.com//api/justify : accepts text as an entry 
+> To generate token : https://text-justify-test.herokuapp.com/api/token  : accepts json that contains "email" field to generate token 
 ```
-
-**Note** : `127.0.0.1:3001` will be changed with the public `URL` sent on mail  
